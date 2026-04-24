@@ -58,7 +58,7 @@ models/
 trained_model/
 
 # Data files (keep only final_dataset.csv)
-*.csv
+#*.csv
 !final_dataset.csv
 data/
 datasets/
